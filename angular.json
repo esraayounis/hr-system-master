@@ -27,9 +27,7 @@
             ],
             "styles": [
               "node_modules/bootstrap/dist/css/bootstrap.css",
-              "src/assets/fonts/icon-fonts/icon-style.css",
               "src/styles.css"
-  
             ],
             "scripts": [
               "node_modules/jquery/dist/jquery.min.js",
